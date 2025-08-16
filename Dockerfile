@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:latest
 MAINTAINER Jan Grewe <jan@faked.org>
 
 ENV VERSION_TOOLS "9123335"
